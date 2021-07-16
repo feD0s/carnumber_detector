@@ -1,0 +1,1 @@
+darknet detector train ./data/obj.data ./data/yolo-obj.cfg ./data/yolov3-tiny.conv.11

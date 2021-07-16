@@ -1,0 +1,1 @@
+darknet detector test ./data/obj.data ./data/yolo-obj.cfg ./data/backup/yolo-obj_last.weights -dont_show -ext_output < data/test.txt > result.txt
